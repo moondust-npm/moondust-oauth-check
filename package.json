@@ -1,0 +1,24 @@
+{
+  "name": "moondust-oauth-check",
+  "version": "1.0.0",
+  "description": "oauthcheck,client_end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moondust-npm/moondust-oauth-check.git"
+  },
+  "keywords": [
+    "oauth_client",
+    "check_oauth",
+    "moondust"
+  ],
+  "author": "Tristan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moondust-npm/moondust-oauth-check/issues"
+  },
+  "homepage": "https://github.com/moondust-npm/moondust-oauth-check#readme"
+}
